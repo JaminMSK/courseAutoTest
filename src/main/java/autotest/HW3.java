@@ -1,5 +1,6 @@
 package autotest;
 
+//с куками не вышло, защита
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
